@@ -1,13 +1,13 @@
 
-# yadniki.github.io
+# nagireddy vinay.github.io
 # Personal Portfolio 🔥
-> (https://yadnikis.github.io/yadniki.github.io/)
+> [(https://github.com/nagireddyvinay/)]
 
 :star: Star me on GitHub — it helps!
 
 
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://yadnikis.github.io/yadniki.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/yadniki-sonawani-27472a21b/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)][(https://github.com/nagireddyvinay)]
+[![Ask Me Anything !](https://www.linkedin.com/in/vinay-bhaskar-nagireddy-604897264/)](https://www.linkedin.com/in/vinay-bhaskar-nagireddy-604897264/)
 
 
 ### Website Preview
